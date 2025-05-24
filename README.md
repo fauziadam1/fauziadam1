@@ -41,19 +41,29 @@
 
 <h3 style="color: white">🚀 Frameworks & Library</h3>
 
+<p align="justify">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
 
 <h3 style="color: white">🎨 Design</h3>
 
+<p align="justify">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" />
+</p>
+
 
 ##
 
 <h3 style="color: white">🧩 My Stats</h3>
 
 
-![Fauzi Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziadam1&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Fauzi Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziadam1&show_icons=true&theme=dark)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
