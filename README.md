@@ -30,11 +30,14 @@
 
 <h3 style="color: white">💻 Languages</h3>
 
+<p align="justify">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
 
 <h3 style="color: white">🚀 Frameworks & Library</h3>
 
@@ -51,9 +54,6 @@
 
 <h3 style="color: white">🧩 My Stats</h3>
 
-<p align="justify">
 
 ![Fauzi Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziadam1&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</p>
 
