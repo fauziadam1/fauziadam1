@@ -2,16 +2,13 @@
   <img src="img/banner.png" alt="Fauzi Adam" />
 </p>
 
-<h1 align="center" style="color: white">Hello World! 👋, I'm Fauzi Adam</h1>
+<h1 align="center" style="color: white">Hello World! 👋, I'm Fauzi</h1>
 
-<p style="color: orange" align="center">Full Stack Web Developer & Mobile App Developer</p>
+<p style="color: orange" align="center">Full Stack Web Developer & UI/UX Designer</p>
 
 <p align="center">
   <a href="mailto:fauziadam0811@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/628225623906" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/fziadm_nr/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -24,7 +21,7 @@
 
 <h3 style="color: white">🧘 About Me</h3>
 
-- 🏀 My hobby is playing basketball  
+- 🏀 My hobby is playing basketball & video game  
 - 📚 Currently learning [**Next.js**](https://nextjs.org/docs) and [**Laravel**](https://laravel.com/docs)  
 - 📩 Reach me at: [fauziadam0811@gmail.com](mailto:fauziadam0811@gmail.com)  
 - 🎯 Focused on: **Next.js**, **UI/UX**, and **Database Development**
@@ -45,7 +42,6 @@
 
 <p align="justify">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
