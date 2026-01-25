@@ -59,12 +59,8 @@
 
 ##
 
-<h3 style="color: white">🧩 My Stats</h3>
-
-
-![Fauzi Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziadam1&show_icons=true&theme=dark)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</p>
 
