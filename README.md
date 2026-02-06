@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/fziadm_nr/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="" target="fauziadam.vercel.app">
+  <a href="https://fauziadam.vercel.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
