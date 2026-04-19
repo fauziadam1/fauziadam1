@@ -24,7 +24,7 @@
 - 🏀 My hobby is playing basketball & video game  
 - 📚 Currently learning [**Next.js**](https://nextjs.org/docs) and [**Laravel**](https://laravel.com/docs)  
 - 📩 Reach me at: [fauziadam0811@gmail.com](mailto:fauziadam0811@gmail.com)  
-- 🎯 Focused on: **Next.js**, **UI/UX**, and **Database Development**
+- 🎯 Focused on: **Frontend**, **UI/UX**, and **Database Development**
 
 ##
 
