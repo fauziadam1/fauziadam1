@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" alt="Fauzi Adam" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJpaHVqeWNxajQ2cGphYW94MnV0YnlubzBxYXQyMnFkenYxbDJhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Fauzi Adam" />
 </p>
 
 <h1 align="center" style="color: white">Hello World! 👋, I'm Fauzi</h1>
@@ -63,4 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
-
