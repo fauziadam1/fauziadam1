@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJpaHVqeWNxajQ2cGphYW94MnV0YnlubzBxYXQyMnFkenYxbDJhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Fauzi Adam" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJpaHVqeWNxajQ2cGphYW94MnV0YnlubzBxYXQyMnFkenYxbDJhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Fauzi Adam" witdh="600"/>
 </p>
 
 <h1 align="center" style="color: white">Hello World! 👋, I'm Fauzi</h1>
