@@ -22,9 +22,9 @@
 <h3 style="color: white">🧘 About Me</h3>
 
 - 🏀 My hobby is playing basketball & video game  
-- 📚 Currently learning [**Next.js**](https://nextjs.org/docs) and [**Laravel**](https://laravel.com/docs)  
+- 📚 Currently learning [**Vue**](https://vuejs.org/)
 - 📩 Reach me at: [fauziadam0811@gmail.com](mailto:fauziadam0811@gmail.com)  
-- 🎯 Focused on: **Frontend**, **UI/UX**, and **Database Development**
+- 🎯 Focused on: **Full Stack Web**, **UI/UX**, and **Database Development**
 
 ##
 
