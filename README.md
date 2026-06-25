@@ -31,7 +31,7 @@
 <h3 style="color: white">🏆 Certificates & Achievements</h3>
 
 <ul>
-  <li>🥇 <strong>1st Place - LKS Web Technologies Provincial Level</strong></li>
+  <li>🥇 <strong>1st Place - LKS Web Technologies Yogyakarta Provincial Level</strong></li>
   <li>🥇 <strong>1st Place - AMICTA 2025 UI/UX Competition</strong></li>
   <li>🏅 <strong>Finalist - MUC 2025, Universitas Atma Jaya Yogyakarta</strong></li>
 </ul>
