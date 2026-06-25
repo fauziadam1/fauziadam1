@@ -70,11 +70,7 @@
 ##
 
 <p align="center">
-  <img src="https://github.com/fauziadam1/github-stats/blob/generated/languages.svg#gh-light-mode" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauziadam1&theme=tokyonight" height="160" alt="GitHub Streak" />
+  <img src="https://github.com/fauziadam1/github-stats/blob/generated/overview.svg#gh-dark-mode" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=fauziadam1&mode=weekly" height="150"/>
+  <img src="https://github.com/fauziadam1/github-stats/blob/generated/languages.svg#gh-dark-mode" height="150"/>
 </p>
