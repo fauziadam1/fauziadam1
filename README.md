@@ -70,6 +70,7 @@
 ##
 
 <p align="center">
+  <img src="https://github.com/fauziadam1/github-stats/blob/generated/languages.svg#gh-light-mode" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziadam1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
