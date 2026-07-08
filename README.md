@@ -21,7 +21,8 @@
 
 <h3 style="color: white">🧘 About Me</h3>
 
-- 🏀 My hobby is playing basketball & video game  
+- 🏀 My hobby is playing basketball & video game
+- 🧩 Speedcuber (Rubik's Cube Enthusiast) — PB: **11.78s** | Consistent **Sub-19** solver
 - 📚 Currently learning [**Vue**](https://vuejs.org/)
 - 📩 Reach me at: [fauziadam0811@gmail.com](mailto:fauziadam0811@gmail.com)  
 - 🎯 Focused on: **Full Stack Web**, **UI/UX**, and **Database Development**
